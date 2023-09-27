@@ -142,6 +142,7 @@ h1,h2,h3,h4,h5,b,button,a {
   line-height: 75px;
   letter-spacing: 30px;
   padding: 18px 0;
+  text-transform: uppercase;
 }
 #banner p {
   font-size: 18px;
